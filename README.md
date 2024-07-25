@@ -1,6 +1,6 @@
 # Pastebin-worker
 
-This is a pastebin that can be deployed on Cloudflare workers. Try it on [shz.al](https://shz.al). 
+This is a pastebin that can be deployed on Cloudflare workers. Try it on [copy.8void.sbs](https://copy.8void.sbs). 
 
 **Philosophy**: effortless deployment, friendly CLI usage, rich functionality. 
 
@@ -17,7 +17,7 @@ This is a pastebin that can be deployed on Cloudflare workers. Try it on [shz.al
 
 ## Usage
 
-1. You can post, update, delete your paste directly on the website (such as [shz.al](https://shz.al)). 
+1. You can post, update, delete your paste directly on the website (such as [copy.8void.sbs](https://copy.8void.sbs)). 
 
 2. It also provides a convenient HTTP API to use. See [API reference](doc/api.md) for details. You can easily call API via command line (using `curl` or similar tools). 
 
