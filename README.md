@@ -134,3 +134,5 @@ Remember to run eslint checks and prettier before commiting your code.
 $ yarn fmt
 $ yarn lint
 ```
+
+[forked from](https://github.com/SharzyL/pastebin-worker)
